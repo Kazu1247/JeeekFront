@@ -1,5 +1,6 @@
-import { Pie } from 'react-chartjs-2'
 import React, { FC } from 'react'
+import { Pie } from 'react-chartjs-2'
+import ErrorBoundary from '../../../ErrorBoundary'
 import { ChartData } from '../../../services/models/general'
 
 interface SkillGraphProps {
@@ -12,7 +13,9 @@ const SkillGraph: FC<SkillGraphProps> = ({ data = null }) => (
       <h3 className="ui header">Skill Graph</h3>
     </div>
     <hr />
-    <Pie data={data} width={80} />
+    <ErrorBoundary>
+      <Pie data={data} width={80} />
+    </ErrorBoundary>
   </div>
 )
 

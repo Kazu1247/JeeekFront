@@ -6,7 +6,7 @@
     "start": "webpack-dev-server",
     "build": "NODE_ENV=production; webpack",
     "watch": "webpack -w",
-    "lint": "eslint src src/stories -c .eslintrc.json --ext ts,tsx --fix; exit 0",
+    "lint": "eslint src src/stories -c .eslintrc.json --ext ts,tsx,js --fix; exit 0",
     "test": "jest",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
@@ -91,6 +91,7 @@
     "react": "^16.9.0",
     "react-chartjs-2": "^2.8.0",
     "react-dom": "^16.9.0",
+    "react-error-boundary": "^1.2.5",
     "react-redux": "^7.1.1",
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",

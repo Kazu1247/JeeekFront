@@ -21,7 +21,15 @@ module.exports = {
           { loader: 'ts-loader' },
         ],
         exclude: /node_modules/
-      }
+      },
+      {
+        // 拡張子.jsの場合(ErrorBoundaryのため)
+        test: /\.js?$/,
+        use: [
+          { loader: 'babel-loader' },
+        ],
+        exclude: /node_modules/
+      },
     ]
   },
   // import文で.tsや.tsxファイルを解決するため
