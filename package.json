@@ -9,7 +9,8 @@
     "lint": "eslint src src/stories -c .eslintrc.json --ext ts,tsx,js --fix; exit 0",
     "test": "jest",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "postinstall": "patch-package"
   },
   "repository": {
     "type": "git",
@@ -88,6 +89,7 @@
     "chart.js": "^2.9.3",
     "dayjs": "^1.8.17",
     "firebase": "^5.0.4",
+    "patch-package": "^6.2.0",
     "react": "^16.9.0",
     "react-chartjs-2": "^2.8.0",
     "react-dom": "^16.9.0",
