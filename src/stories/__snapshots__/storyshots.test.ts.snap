@@ -1,0 +1,2935 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Home Home 1`] = `
+<div
+  className="ui grid"
+>
+  <div
+    className="three wide column"
+  >
+    <div
+      className="ui container"
+    >
+      <div
+        className="content"
+        style={
+          Object {
+            "marginTop": "15px",
+          }
+        }
+      >
+        <h3
+          className="ui header"
+        >
+          Skill Graph
+        </h3>
+      </div>
+      <hr />
+      <canvas
+        height={150}
+        onClick={[Function]}
+        width={80}
+      />
+    </div>
+  </div>
+  <div
+    className="ten wide column"
+  >
+    <div
+      className="ui container"
+    >
+      <div
+        className="content css-1xhzuut-SkillList"
+      >
+        <h3
+          className="ui header"
+        >
+          Skill List
+        </h3>
+      </div>
+      <hr />
+      <table
+        className="ui striped table"
+      >
+        <thead>
+          <tr>
+            <th>
+              Skill
+            </th>
+            <th>
+              Level
+            </th>
+            <th>
+              Group
+            </th>
+            <th>
+              Ranking
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              React
+            </td>
+            <td>
+              A
+            </td>
+            <td>
+              〇〇
+            </td>
+            <td>
+              186/13566
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Next
+            </td>
+            <td>
+              B
+            </td>
+            <td>
+              〇〇
+            </td>
+            <td>
+              186/13566
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Home/News News 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="content css-15hvkti-News"
+  >
+    <h3
+      className="ui header"
+    >
+      News
+    </h3>
+  </div>
+  <hr />
+  <table
+    className="ui basic table"
+  >
+    <tbody>
+      <tr>
+        <td>
+          【9/23 フロントエンドmeetup!@渋谷】最新のフロントエンド情報をキャッチアップしよう。こちらは...
+           
+        </td>
+      </tr>
+      <tr>
+        <td>
+          【9/26 ガチもくもく会@六本木】 本気でもくもくを行いたい人向けのイベントです。個人開発者はもち...
+        </td>
+      </tr>
+      <tr>
+        <td>
+          【10/2 第7回技術書展】今年もやってきました。毎年恒例の技術書展が渋谷で開催されます。日程の詳...
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Storyshots Home/SkillGraph SkillGraph 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="content"
+    style={
+      Object {
+        "marginTop": "15px",
+      }
+    }
+  >
+    <h3
+      className="ui header"
+    >
+      Skill Graph
+    </h3>
+  </div>
+  <hr />
+  <canvas
+    height={150}
+    onClick={[Function]}
+    width={80}
+  />
+</div>
+`;
+
+exports[`Storyshots Home/SkillList SkillList 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="content css-1xhzuut-SkillList"
+  >
+    <h3
+      className="ui header"
+    >
+      Skill List
+    </h3>
+  </div>
+  <hr />
+  <table
+    className="ui striped table"
+  >
+    <thead>
+      <tr>
+        <th>
+          Skill
+        </th>
+        <th>
+          Level
+        </th>
+        <th>
+          Group
+        </th>
+        <th>
+          Ranking
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          React
+        </td>
+        <td>
+          A
+        </td>
+        <td>
+          〇〇
+        </td>
+        <td>
+          186/13566
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Next
+        </td>
+        <td>
+          B
+        </td>
+        <td>
+          〇〇
+        </td>
+        <td>
+          186/13566
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Storyshots Navbar Navbar 1`] = `
+<div
+  className="ui secondary pointing menu"
+  style={
+    Object {
+      "backgroundColor": "#47555E",
+    }
+  }
+>
+  <a
+    className="ui white item active"
+    href="/"
+    onClick={[Function]}
+  >
+    <h3
+      className="css-7uy4do"
+    >
+      <i
+        className="home icon"
+      />
+      Home
+    </h3>
+  </a>
+  <a
+    className="item"
+    href="/timeline"
+    onClick={[Function]}
+  >
+    <h3>
+      <i
+        className="address card icon"
+      />
+      Timeline
+    </h3>
+  </a>
+  <a
+    className="item"
+    href="/profile"
+    onClick={[Function]}
+  >
+    <h3>
+      <i
+        className="user icon"
+      />
+      Profile
+    </h3>
+  </a>
+  <a
+    className="item"
+    href="/users"
+    onClick={[Function]}
+  >
+    <h3>
+      <i
+        className="users icon"
+      />
+      Users
+    </h3>
+  </a>
+  <a
+    className="item"
+    href="/services"
+    onClick={[Function]}
+  >
+    <h3>
+      <i
+        className="handshake icon"
+      />
+      Services
+    </h3>
+  </a>
+  <a
+    className="item"
+    href="/issue-board"
+    onClick={[Function]}
+  >
+    <h3>
+      <i
+        className="clipboard list icon"
+      />
+      IssueBoard
+    </h3>
+  </a>
+  <div
+    className="right menu"
+  >
+    <a
+      className="ui item"
+      href="/"
+      onClick={[Function]}
+    >
+      <h3>
+        Logout
+      </h3>
+    </a>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Profile Profile 1`] = `
+<div
+  className="ui grid"
+>
+  <div
+    className="four wide column"
+  >
+    <div
+      className="ui card css-ou5q29-UserInfo"
+      style={
+        Object {
+          "marginTop": "15px",
+        }
+      }
+    >
+      <img
+        alt=""
+        className="ui medium image css-z4s9wh-UserInfo"
+        src="http://ドラマシリコンバレー.com/content/images/siliconvalley/richard.jpg"
+      />
+      <div
+        className="content"
+      >
+        <b
+          className="header"
+        >
+          かず
+        </b>
+        <div
+          className="meta"
+        >
+          <span
+            className="date"
+          >
+            Joined at 
+            2019-12-01
+          </span>
+        </div>
+        <div
+          className="item"
+          style={
+            Object {
+              "marginTop": "5px",
+            }
+          }
+        >
+          <i
+            className="mail icon"
+          />
+          <span>
+            kazuhiro.1247@gmail.com
+          </span>
+        </div>
+        <div
+          className="item"
+          style={
+            Object {
+              "marginTop": "2px",
+            }
+          }
+        >
+          <i
+            className="user icon"
+          />
+          <span>
+            following 
+            1
+          </span>
+           / 
+          <span>
+            follower 
+            1
+          </span>
+        </div>
+        <div
+          className="description"
+          style={
+            Object {
+              "marginTop": "2px",
+            }
+          }
+        >
+          俺が世界を救う
+        </div>
+      </div>
+      <div
+        className="extra content"
+      >
+        <div
+          className="mini ui button css-1ycjqh3-UserInfo"
+        >
+          edit
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="ten wide column"
+  >
+    <div
+      className="content"
+    >
+      <h2
+        className="ui left floated header"
+        style={
+          Object {
+            "marginLeft": "10px",
+            "marginTop": "10px",
+          }
+        }
+      >
+        About
+      </h2>
+      <button
+        className="mini ui button"
+        onClick={[Function]}
+        style={
+          Object {
+            "marginLeft": "10px",
+            "marginTop": "10px",
+          }
+        }
+        type="button"
+      >
+        編集
+      </button>
+      <div
+        className="content"
+      >
+        <h3
+          className="ui dividing teal header css-109tzo3-About"
+          style={
+            Object {
+              "marginLeft": "10px",
+              "marginTop": "30px",
+            }
+          }
+        >
+          学歴
+        </h3>
+        <div
+          className="content"
+        >
+          <div
+            className="description"
+            style={
+              Object {
+                "marginLeft": "30px",
+              }
+            }
+          >
+            <ul
+              style={
+                Object {
+                  "clear": "both",
+                }
+              }
+            >
+              <li
+                style={
+                  Object {
+                    "float": "left",
+                    "width": "10%",
+                  }
+                }
+              >
+                2019/3
+              </li>
+              <li
+                style={
+                  Object {
+                    "listStyle": "none",
+                  }
+                }
+              >
+                筑波大学卒
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        className="content"
+      >
+        <h3
+          className="ui dividing teal header css-109tzo3-About"
+          style={
+            Object {
+              "marginLeft": "10px",
+              "marginTop": "15px",
+            }
+          }
+        >
+          職歴
+        </h3>
+        <div
+          className="content"
+        >
+          <div
+            className="description"
+            style={
+              Object {
+                "marginLeft": "30px",
+              }
+            }
+          >
+            <ul
+              style={
+                Object {
+                  "clear": "both",
+                }
+              }
+            >
+              <li
+                style={
+                  Object {
+                    "float": "left",
+                    "width": "10%",
+                  }
+                }
+              >
+                2019/4
+              </li>
+              <li
+                style={
+                  Object {
+                    "listStyle": "none",
+                  }
+                }
+              >
+                dely株式会社
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        className="content"
+      >
+        <h3
+          className="ui dividing teal header css-109tzo3-About"
+          style={
+            Object {
+              "marginLeft": "10px",
+              "marginTop": "15px",
+            }
+          }
+        >
+          資格・受賞歴
+        </h3>
+        <div
+          className="content"
+        >
+          <div
+            className="description"
+            style={
+              Object {
+                "marginLeft": "30px",
+              }
+            }
+          >
+            <ul
+              style={
+                Object {
+                  "clear": "both",
+                }
+              }
+            >
+              <li
+                style={
+                  Object {
+                    "float": "left",
+                    "width": "10%",
+                  }
+                }
+              >
+                2020/4
+              </li>
+              <li
+                style={
+                  Object {
+                    "listStyle": "none",
+                  }
+                }
+              >
+                ワロタオブザイヤー
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Profile/About About 1`] = `
+<div
+  className="content"
+>
+  <h2
+    className="ui left floated header"
+    style={
+      Object {
+        "marginLeft": "10px",
+        "marginTop": "10px",
+      }
+    }
+  >
+    About
+  </h2>
+  <button
+    className="mini ui button"
+    onClick={[Function]}
+    style={
+      Object {
+        "marginLeft": "10px",
+        "marginTop": "10px",
+      }
+    }
+    type="button"
+  >
+    編集
+  </button>
+  <div
+    className="content"
+  >
+    <h3
+      className="ui dividing teal header css-109tzo3-About"
+      style={
+        Object {
+          "marginLeft": "10px",
+          "marginTop": "30px",
+        }
+      }
+    >
+      学歴
+    </h3>
+    <div
+      className="content"
+    >
+      <div
+        className="description"
+        style={
+          Object {
+            "marginLeft": "30px",
+          }
+        }
+      >
+        <ul
+          style={
+            Object {
+              "clear": "both",
+            }
+          }
+        >
+          <li
+            style={
+              Object {
+                "float": "left",
+                "width": "10%",
+              }
+            }
+          >
+            2019/3
+          </li>
+          <li
+            style={
+              Object {
+                "listStyle": "none",
+              }
+            }
+          >
+            筑波大学卒
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div
+    className="content"
+  >
+    <h3
+      className="ui dividing teal header css-109tzo3-About"
+      style={
+        Object {
+          "marginLeft": "10px",
+          "marginTop": "15px",
+        }
+      }
+    >
+      職歴
+    </h3>
+    <div
+      className="content"
+    >
+      <div
+        className="description"
+        style={
+          Object {
+            "marginLeft": "30px",
+          }
+        }
+      >
+        <ul
+          style={
+            Object {
+              "clear": "both",
+            }
+          }
+        >
+          <li
+            style={
+              Object {
+                "float": "left",
+                "width": "10%",
+              }
+            }
+          >
+            2019/4
+          </li>
+          <li
+            style={
+              Object {
+                "listStyle": "none",
+              }
+            }
+          >
+            dely株式会社
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div
+    className="content"
+  >
+    <h3
+      className="ui dividing teal header css-109tzo3-About"
+      style={
+        Object {
+          "marginLeft": "10px",
+          "marginTop": "15px",
+        }
+      }
+    >
+      資格・受賞歴
+    </h3>
+    <div
+      className="content"
+    >
+      <div
+        className="description"
+        style={
+          Object {
+            "marginLeft": "30px",
+          }
+        }
+      >
+        <ul
+          style={
+            Object {
+              "clear": "both",
+            }
+          }
+        >
+          <li
+            style={
+              Object {
+                "float": "left",
+                "width": "10%",
+              }
+            }
+          >
+            2020/4
+          </li>
+          <li
+            style={
+              Object {
+                "listStyle": "none",
+              }
+            }
+          >
+            ワロタオブザイヤー
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Profile/UserInfo UserInfo 1`] = `
+<div
+  className="ui card css-ou5q29-UserInfo"
+  style={
+    Object {
+      "marginTop": "15px",
+    }
+  }
+>
+  <img
+    alt=""
+    className="ui medium image css-z4s9wh-UserInfo"
+    src="http://ドラマシリコンバレー.com/content/images/siliconvalley/richard.jpg"
+  />
+  <div
+    className="content"
+  >
+    <b
+      className="header"
+    >
+      かず
+    </b>
+    <div
+      className="meta"
+    >
+      <span
+        className="date"
+      >
+        Joined at 
+        2019-12-01
+      </span>
+    </div>
+    <div
+      className="item"
+      style={
+        Object {
+          "marginTop": "5px",
+        }
+      }
+    >
+      <i
+        className="mail icon"
+      />
+      <span>
+        kazuhiro.1247@gmail.com
+      </span>
+    </div>
+    <div
+      className="item"
+      style={
+        Object {
+          "marginTop": "2px",
+        }
+      }
+    >
+      <i
+        className="user icon"
+      />
+      <span>
+        following 
+        1
+      </span>
+       / 
+      <span>
+        follower 
+        1
+      </span>
+    </div>
+    <div
+      className="description"
+      style={
+        Object {
+          "marginTop": "2px",
+        }
+      }
+    >
+      フロントエンドエンジニアです。
+    </div>
+  </div>
+  <div
+    className="extra content"
+  >
+    <div
+      className="mini ui button css-1ycjqh3-UserInfo"
+    >
+      edit
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Timeline Timeline 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="ui grid"
+  >
+    <div
+      className="five wide column"
+    >
+      <div
+        className="css-v2ewsn-PostScreen"
+      >
+        <div
+          className="content"
+        >
+          <h3
+            className="ui header"
+          >
+            New Activity
+          </h3>
+        </div>
+        <hr />
+        <div
+          className="css-7zfzvc-PostScreen"
+        >
+          <div
+            className="grid css-qlmkz-PostScreen"
+          >
+            <div
+              className="one wide column"
+            >
+              <img
+                alt="userIcon"
+                className="image css-rck946-PostScreen"
+                src="http://ドラマシリコンバレー.com/content/images/siliconvalley/richard.jpg"
+              />
+            </div>
+            <div
+              className="two wide column css-qefhyf-PostScreen"
+            >
+              <b>
+                かず
+              </b>
+            </div>
+          </div>
+          <div>
+            <form
+              action="http://localhost:5000"
+              method="post"
+            >
+              <div
+                className="content"
+                style={
+                  Object {
+                    "marginLeft": "20%",
+                  }
+                }
+              >
+                <div
+                  className="field css-10n3j8p-CategoryForm"
+                >
+                  <b>
+                    カテゴリ *
+                  </b>
+                  <div>
+                    <select
+                      className="dropdown css-1udcnkr-CategoryForm"
+                      name="category"
+                      required={true}
+                    >
+                      <option
+                        value=""
+                      >
+                        ----------
+                      </option>
+                      <option
+                        value="0"
+                      >
+                        学習
+                      </option>
+                      <option
+                        value="1"
+                      >
+                        開発
+                      </option>
+                      <option
+                        value="2"
+                      >
+                        執筆
+                      </option>
+                      <option
+                        value="3"
+                      >
+                        賞等
+                      </option>
+                    </select>
+                  </div>
+                </div>
+                <div
+                  className="field css-re34r9-SubjectForm"
+                >
+                  <b>
+                    タイトル *
+                  </b>
+                  <div
+                    className="ui input focus css-qmijr8-SubjectForm"
+                  >
+                    <input
+                      name="title"
+                      placeholder="サービス名, 本のタイトル, 勉強会, "
+                      required={true}
+                      type="text"
+                    />
+                  </div>
+                </div>
+                <div
+                  className="field css-1msdli-CommentForm"
+                >
+                  <b>
+                    一言コメント
+                  </b>
+                  <div
+                    className="ui input focus css-1ow65kf-CommentForm"
+                  >
+                    <textarea
+                      className="css-1v3ld6q-CommentForm"
+                      name="comment"
+                      placeholder="記事投稿しました！, 賞をとりました！, 7章を読みました！, etc."
+                    />
+                  </div>
+                </div>
+                <div
+                  className="field css-1y3iw5p-TagForm"
+                >
+                  <b>
+                    スキルタグ *
+                  </b>
+                  <div
+                    className="ui input focus css-1eppgff-TagForm"
+                  >
+                    <input
+                      name="tag"
+                      placeholder="React, 機械学習, GCP, ..."
+                      required={true}
+                      type="text"
+                    />
+                  </div>
+                </div>
+                <div
+                  className="field css-1ayt3w7-UrlForm"
+                >
+                  <b>
+                    URL
+                  </b>
+                  <div
+                    className="ui input focus css-d2z0rb-UrlForm"
+                  >
+                    <input
+                      name="url"
+                      placeholder="https://jeeek.com"
+                      type="text"
+                    />
+                  </div>
+                </div>
+                <div
+                  className="css-ct0jwt-PostScreen"
+                />
+                <b>
+                  *は必須項目です。
+                </b>
+                <button
+                  className="button css-1ua43rg-PostScreen"
+                  type="submit"
+                  value="投稿"
+                >
+                  <i
+                    className="plus icon"
+                  />
+                  投稿
+                </button>
+                <div
+                  className="container css-14rgm57-PostScreen"
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="five wide column"
+    >
+      <div
+        className="ui container"
+      >
+        <div
+          className="content css-kiyaek-UserFeed"
+        >
+          <h3
+            className="ui header"
+          >
+            Recent Activity
+          </h3>
+        </div>
+        <hr />
+        <div
+          className="css-ljriby-UserFeed"
+        >
+          <div
+            className="css-1i45e8v-UserFeed"
+          >
+            <h3>
+              2
+               activities today. Just do it!
+            </h3>
+          </div>
+        </div>
+        <div
+          className="ui feed css-1fa1bib-UserFeed"
+        >
+          <div
+            className="cards css-14fw4j8-UserFeed"
+          >
+            <div
+              className="ui card"
+              style={
+                Object {
+                  "width": "98%",
+                }
+              }
+            >
+              <div
+                className="content"
+              >
+                <div
+                  className="right floated ui label css-14ax3nl-ActivityCard"
+                >
+                  <p
+                    className="css-rtlns9-ActivityCard"
+                  >
+                    C
+                  </p>
+                </div>
+                <div
+                  className="right floated ui label css-81j3c4-ActivityCard"
+                >
+                  <p
+                    className="css-rtlns9-ActivityCard"
+                  >
+                    学習
+                  </p>
+                </div>
+                <img
+                  alt=""
+                  className="left floated ui image"
+                  src="https://cyclestyle.net/feature/img18/223.jpg"
+                  style={
+                    Object {
+                      "height": "2.5em",
+                      "width": "2.5em",
+                    }
+                  }
+                />
+                <a
+                  className="header"
+                  href="/friends"
+                  onClick={[Function]}
+                >
+                  コースケ
+                </a>
+                <div
+                  className="meta"
+                >
+                  Sun Dec 10 1815
+                </div>
+                <div
+                  className="description"
+                >
+                  <div
+                    className="content"
+                  >
+                    <div>
+                      <b>
+                        progate-python#3
+                      </b>
+                    </div>
+                    <div>
+                      今日もpythonを勉強した
+                    </div>
+                    <div
+                      className="css-q2t9f5-ActivityCard"
+                    >
+                      <div
+                        className="ui blue mini label"
+                      >
+                        python
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="extra content"
+              >
+                <div
+                  className="left floated"
+                >
+                  <i
+                    className="reply icon"
+                  />
+                </div>
+                <div
+                  className="right floated like"
+                >
+                  <i
+                    className="thumbs up outline icon"
+                  >
+                     
+                  </i>
+                  20
+                </div>
+                <div
+                  className="right floated star css-259vkn-ActivityCard"
+                >
+                  <i
+                    className="yen sign icon"
+                  >
+                     
+                  </i>
+                  10
+                </div>
+              </div>
+            </div>
+            <div
+              className="ui card"
+              style={
+                Object {
+                  "width": "98%",
+                }
+              }
+            >
+              <div
+                className="content"
+              >
+                <div
+                  className="right floated ui label css-14ax3nl-ActivityCard"
+                >
+                  <p
+                    className="css-rtlns9-ActivityCard"
+                  >
+                    C
+                  </p>
+                </div>
+                <div
+                  className="right floated ui label css-81j3c4-ActivityCard"
+                >
+                  <p
+                    className="css-rtlns9-ActivityCard"
+                  >
+                    学習
+                  </p>
+                </div>
+                <img
+                  alt=""
+                  className="left floated ui image"
+                  src="http://ドラマシリコンバレー.com/content/images/siliconvalley/richard.jpg"
+                  style={
+                    Object {
+                      "height": "2.5em",
+                      "width": "2.5em",
+                    }
+                  }
+                />
+                <a
+                  className="header"
+                  href="/friends"
+                  onClick={[Function]}
+                >
+                  かず
+                </a>
+                <div
+                  className="meta"
+                >
+                  Sun Dec 10 1815
+                </div>
+                <div
+                  className="description"
+                >
+                  <div
+                    className="content"
+                  >
+                    <div>
+                      <b>
+                        qiita投稿：aws開発
+                      </b>
+                    </div>
+                    <div>
+                      
+                    </div>
+                    <div
+                      className="css-q2t9f5-ActivityCard"
+                    >
+                      <div
+                        className="ui blue mini label"
+                      >
+                        aws
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="extra content"
+              >
+                <div
+                  className="left floated"
+                >
+                  <i
+                    className="reply icon"
+                  />
+                </div>
+                <div
+                  className="right floated like"
+                >
+                  <i
+                    className="thumbs up outline icon"
+                  >
+                     
+                  </i>
+                  20
+                </div>
+                <div
+                  className="right floated star css-259vkn-ActivityCard"
+                >
+                  <i
+                    className="yen sign icon"
+                  >
+                     
+                  </i>
+                  10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="five wide column"
+    >
+      <div
+        className="ui container"
+      >
+        <div
+          className="content css-sm7x0b-TrendFeed"
+        >
+          <h3
+            className="ui header"
+          >
+            Trend
+          </h3>
+        </div>
+        <hr />
+        <div
+          className="css-1dr3mmn-TrendFeed"
+        >
+          <div
+            className="css-4v1hj5-TrendFeed"
+          >
+            <h3>
+              There are trend activities.
+            </h3>
+          </div>
+        </div>
+        <div
+          className="ui feed css-13ejdb2-TrendFeed"
+        >
+          <div
+            className="cards css-ezchof-TrendFeed"
+          >
+            <div
+              className="ui card"
+              style={
+                Object {
+                  "width": "98%",
+                }
+              }
+            >
+              <div
+                className="content"
+              >
+                <div
+                  className="right floated ui label css-14ax3nl-ActivityCard"
+                >
+                  <p
+                    className="css-rtlns9-ActivityCard"
+                  >
+                    C
+                  </p>
+                </div>
+                <div
+                  className="right floated ui label css-81j3c4-ActivityCard"
+                >
+                  <p
+                    className="css-rtlns9-ActivityCard"
+                  >
+                    学習
+                  </p>
+                </div>
+                <img
+                  alt=""
+                  className="left floated ui image"
+                  src="https://cyclestyle.net/feature/img18/223.jpg"
+                  style={
+                    Object {
+                      "height": "2.5em",
+                      "width": "2.5em",
+                    }
+                  }
+                />
+                <a
+                  className="header"
+                  href="/friends"
+                  onClick={[Function]}
+                >
+                  コースケ
+                </a>
+                <div
+                  className="meta"
+                >
+                  Sun Dec 10 1815
+                </div>
+                <div
+                  className="description"
+                >
+                  <div
+                    className="content"
+                  >
+                    <div>
+                      <b>
+                        progate-python#3
+                      </b>
+                    </div>
+                    <div>
+                      今日もpythonを勉強した
+                    </div>
+                    <div
+                      className="css-q2t9f5-ActivityCard"
+                    >
+                      <div
+                        className="ui blue mini label"
+                      >
+                        python
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="extra content"
+              >
+                <div
+                  className="left floated"
+                >
+                  <i
+                    className="reply icon"
+                  />
+                </div>
+                <div
+                  className="right floated like"
+                >
+                  <i
+                    className="thumbs up outline icon"
+                  >
+                     
+                  </i>
+                  20
+                </div>
+                <div
+                  className="right floated star css-259vkn-ActivityCard"
+                >
+                  <i
+                    className="yen sign icon"
+                  >
+                     
+                  </i>
+                  10
+                </div>
+              </div>
+            </div>
+            <div
+              className="ui card"
+              style={
+                Object {
+                  "width": "98%",
+                }
+              }
+            >
+              <div
+                className="content"
+              >
+                <div
+                  className="right floated ui label css-14ax3nl-ActivityCard"
+                >
+                  <p
+                    className="css-rtlns9-ActivityCard"
+                  >
+                    C
+                  </p>
+                </div>
+                <div
+                  className="right floated ui label css-81j3c4-ActivityCard"
+                >
+                  <p
+                    className="css-rtlns9-ActivityCard"
+                  >
+                    学習
+                  </p>
+                </div>
+                <img
+                  alt=""
+                  className="left floated ui image"
+                  src="https://pbs.twimg.com/profile_images/960682119210008576/2N7WJGZE.jpg"
+                  style={
+                    Object {
+                      "height": "2.5em",
+                      "width": "2.5em",
+                    }
+                  }
+                />
+                <a
+                  className="header"
+                  href="/friends"
+                  onClick={[Function]}
+                >
+                  ケイスケホンダ
+                </a>
+                <div
+                  className="meta"
+                >
+                  Sun Dec 10 1815
+                </div>
+                <div
+                  className="description"
+                >
+                  <div
+                    className="content"
+                  >
+                    <div>
+                      <b>
+                        初めてのJavaScript3章
+                      </b>
+                    </div>
+                    <div>
+                      読んだ。伸び代ですねえ
+                    </div>
+                    <div
+                      className="css-q2t9f5-ActivityCard"
+                    >
+                      <div
+                        className="ui blue mini label"
+                      >
+                        JavaScript
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="extra content"
+              >
+                <div
+                  className="left floated"
+                >
+                  <i
+                    className="reply icon"
+                  />
+                </div>
+                <div
+                  className="right floated like"
+                >
+                  <i
+                    className="thumbs up outline icon"
+                  >
+                     
+                  </i>
+                  20
+                </div>
+                <div
+                  className="right floated star css-259vkn-ActivityCard"
+                >
+                  <i
+                    className="yen sign icon"
+                  >
+                     
+                  </i>
+                  10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Timeline/ActivityCard ActivityCard 1`] = `
+<div
+  className="ui card"
+  style={
+    Object {
+      "width": "98%",
+    }
+  }
+>
+  <div
+    className="content"
+  >
+    <div
+      className="right floated ui label css-14ax3nl-ActivityCard"
+    >
+      <p
+        className="css-rtlns9-ActivityCard"
+      >
+        C
+      </p>
+    </div>
+    <div
+      className="right floated ui label css-81j3c4-ActivityCard"
+    >
+      <p
+        className="css-rtlns9-ActivityCard"
+      >
+        学習
+      </p>
+    </div>
+    <img
+      alt=""
+      className="left floated ui image"
+      src="https://cyclestyle.net/feature/img18/223.jpg"
+      style={
+        Object {
+          "height": "2.5em",
+          "width": "2.5em",
+        }
+      }
+    />
+    <a
+      className="header"
+      href="/friends"
+      onClick={[Function]}
+    >
+      コースケ
+    </a>
+    <div
+      className="meta"
+    >
+      Sun Dec 10 1815
+    </div>
+    <div
+      className="description"
+    >
+      <div
+        className="content"
+      >
+        <div>
+          <b>
+            progate-python#3
+          </b>
+        </div>
+        <div>
+          今日もpythonを勉強した
+        </div>
+        <div
+          className="css-q2t9f5-ActivityCard"
+        >
+          <div
+            className="ui blue mini label"
+          >
+            python
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="extra content"
+  >
+    <div
+      className="left floated"
+    >
+      <i
+        className="reply icon"
+      />
+    </div>
+    <div
+      className="right floated like"
+    >
+      <i
+        className="thumbs up outline icon"
+      >
+         
+      </i>
+      20
+    </div>
+    <div
+      className="right floated star css-259vkn-ActivityCard"
+    >
+      <i
+        className="yen sign icon"
+      >
+         
+      </i>
+      10
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Timeline/PostScreen PostScreen 1`] = `
+<div
+  className="css-v2ewsn-PostScreen"
+>
+  <div
+    className="content"
+  >
+    <h3
+      className="ui header"
+    >
+      New Activity
+    </h3>
+  </div>
+  <hr />
+  <div
+    className="css-7zfzvc-PostScreen"
+  >
+    <div
+      className="grid css-qlmkz-PostScreen"
+    >
+      <div
+        className="one wide column"
+      >
+        <img
+          alt="userIcon"
+          className="image css-rck946-PostScreen"
+          src="http://ドラマシリコンバレー.com/content/images/siliconvalley/richard.jpg"
+        />
+      </div>
+      <div
+        className="two wide column css-qefhyf-PostScreen"
+      >
+        <b>
+          かず
+        </b>
+      </div>
+    </div>
+    <div>
+      <form
+        action="http://localhost:5000"
+        method="post"
+      >
+        <div
+          className="content"
+          style={
+            Object {
+              "marginLeft": "20%",
+            }
+          }
+        >
+          <div
+            className="field css-10n3j8p-CategoryForm"
+          >
+            <b>
+              カテゴリ *
+            </b>
+            <div>
+              <select
+                className="dropdown css-1udcnkr-CategoryForm"
+                name="category"
+                required={true}
+              >
+                <option
+                  value=""
+                >
+                  ----------
+                </option>
+                <option
+                  value="0"
+                >
+                  学習
+                </option>
+                <option
+                  value="1"
+                >
+                  開発
+                </option>
+                <option
+                  value="2"
+                >
+                  執筆
+                </option>
+                <option
+                  value="3"
+                >
+                  賞等
+                </option>
+              </select>
+            </div>
+          </div>
+          <div
+            className="field css-re34r9-SubjectForm"
+          >
+            <b>
+              タイトル *
+            </b>
+            <div
+              className="ui input focus css-qmijr8-SubjectForm"
+            >
+              <input
+                name="title"
+                placeholder="サービス名, 本のタイトル, 勉強会, "
+                required={true}
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            className="field css-1msdli-CommentForm"
+          >
+            <b>
+              一言コメント
+            </b>
+            <div
+              className="ui input focus css-1ow65kf-CommentForm"
+            >
+              <textarea
+                className="css-1v3ld6q-CommentForm"
+                name="comment"
+                placeholder="記事投稿しました！, 賞をとりました！, 7章を読みました！, etc."
+              />
+            </div>
+          </div>
+          <div
+            className="field css-1y3iw5p-TagForm"
+          >
+            <b>
+              スキルタグ *
+            </b>
+            <div
+              className="ui input focus css-1eppgff-TagForm"
+            >
+              <input
+                name="tag"
+                placeholder="React, 機械学習, GCP, ..."
+                required={true}
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            className="field css-1ayt3w7-UrlForm"
+          >
+            <b>
+              URL
+            </b>
+            <div
+              className="ui input focus css-d2z0rb-UrlForm"
+            >
+              <input
+                name="url"
+                placeholder="https://jeeek.com"
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            className="css-ct0jwt-PostScreen"
+          />
+          <b>
+            *は必須項目です。
+          </b>
+          <button
+            className="button css-1ua43rg-PostScreen"
+            type="submit"
+            value="投稿"
+          >
+            <i
+              className="plus icon"
+            />
+            投稿
+          </button>
+          <div
+            className="container css-14rgm57-PostScreen"
+          />
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Timeline/TrendFeed TrendFeed 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="content css-sm7x0b-TrendFeed"
+  >
+    <h3
+      className="ui header"
+    >
+      Trend
+    </h3>
+  </div>
+  <hr />
+  <div
+    className="css-1dr3mmn-TrendFeed"
+  >
+    <div
+      className="css-4v1hj5-TrendFeed"
+    >
+      <h3>
+        There are trend activities.
+      </h3>
+    </div>
+  </div>
+  <div
+    className="ui feed css-13ejdb2-TrendFeed"
+  >
+    <div
+      className="cards css-ezchof-TrendFeed"
+    >
+      <div
+        className="ui card"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="content"
+        >
+          <div
+            className="right floated ui label css-14ax3nl-ActivityCard"
+          >
+            <p
+              className="css-rtlns9-ActivityCard"
+            >
+              C
+            </p>
+          </div>
+          <div
+            className="right floated ui label css-81j3c4-ActivityCard"
+          >
+            <p
+              className="css-rtlns9-ActivityCard"
+            >
+              学習
+            </p>
+          </div>
+          <img
+            alt=""
+            className="left floated ui image"
+            src="https://cyclestyle.net/feature/img18/223.jpg"
+            style={
+              Object {
+                "height": "2.5em",
+                "width": "2.5em",
+              }
+            }
+          />
+          <a
+            className="header"
+            href="/friends"
+            onClick={[Function]}
+          >
+            コースケ
+          </a>
+          <div
+            className="meta"
+          >
+            Sun Dec 10 1815
+          </div>
+          <div
+            className="description"
+          >
+            <div
+              className="content"
+            >
+              <div>
+                <b>
+                  progate-python#3
+                </b>
+              </div>
+              <div>
+                今日もpythonを勉強した
+              </div>
+              <div
+                className="css-q2t9f5-ActivityCard"
+              >
+                <div
+                  className="ui blue mini label"
+                >
+                  python
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="extra content"
+        >
+          <div
+            className="left floated"
+          >
+            <i
+              className="reply icon"
+            />
+          </div>
+          <div
+            className="right floated like"
+          >
+            <i
+              className="thumbs up outline icon"
+            >
+               
+            </i>
+            20
+          </div>
+          <div
+            className="right floated star css-259vkn-ActivityCard"
+          >
+            <i
+              className="yen sign icon"
+            >
+               
+            </i>
+            10
+          </div>
+        </div>
+      </div>
+      <div
+        className="ui card"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="content"
+        >
+          <div
+            className="right floated ui label css-14ax3nl-ActivityCard"
+          >
+            <p
+              className="css-rtlns9-ActivityCard"
+            >
+              C
+            </p>
+          </div>
+          <div
+            className="right floated ui label css-81j3c4-ActivityCard"
+          >
+            <p
+              className="css-rtlns9-ActivityCard"
+            >
+              学習
+            </p>
+          </div>
+          <img
+            alt=""
+            className="left floated ui image"
+            src="https://pbs.twimg.com/profile_images/960682119210008576/2N7WJGZE.jpg"
+            style={
+              Object {
+                "height": "2.5em",
+                "width": "2.5em",
+              }
+            }
+          />
+          <a
+            className="header"
+            href="/friends"
+            onClick={[Function]}
+          >
+            ケイスケホンダ
+          </a>
+          <div
+            className="meta"
+          >
+            Sun Dec 10 1815
+          </div>
+          <div
+            className="description"
+          >
+            <div
+              className="content"
+            >
+              <div>
+                <b>
+                  初めてのJavaScript3章
+                </b>
+              </div>
+              <div>
+                読んだ。伸び代ですねえ
+              </div>
+              <div
+                className="css-q2t9f5-ActivityCard"
+              >
+                <div
+                  className="ui blue mini label"
+                >
+                  JavaScript
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="extra content"
+        >
+          <div
+            className="left floated"
+          >
+            <i
+              className="reply icon"
+            />
+          </div>
+          <div
+            className="right floated like"
+          >
+            <i
+              className="thumbs up outline icon"
+            >
+               
+            </i>
+            20
+          </div>
+          <div
+            className="right floated star css-259vkn-ActivityCard"
+          >
+            <i
+              className="yen sign icon"
+            >
+               
+            </i>
+            10
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Timeline/UserFeed UserFeed 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="content css-kiyaek-UserFeed"
+  >
+    <h3
+      className="ui header"
+    >
+      Recent Activity
+    </h3>
+  </div>
+  <hr />
+  <div
+    className="css-ljriby-UserFeed"
+  >
+    <div
+      className="css-1i45e8v-UserFeed"
+    >
+      <h3>
+        2
+         activities today. Just do it!
+      </h3>
+    </div>
+  </div>
+  <div
+    className="ui feed css-1fa1bib-UserFeed"
+  >
+    <div
+      className="cards css-14fw4j8-UserFeed"
+    >
+      <div
+        className="ui card"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="content"
+        >
+          <div
+            className="right floated ui label css-14ax3nl-ActivityCard"
+          >
+            <p
+              className="css-rtlns9-ActivityCard"
+            >
+              C
+            </p>
+          </div>
+          <div
+            className="right floated ui label css-81j3c4-ActivityCard"
+          >
+            <p
+              className="css-rtlns9-ActivityCard"
+            >
+              学習
+            </p>
+          </div>
+          <img
+            alt=""
+            className="left floated ui image"
+            src="https://cyclestyle.net/feature/img18/223.jpg"
+            style={
+              Object {
+                "height": "2.5em",
+                "width": "2.5em",
+              }
+            }
+          />
+          <a
+            className="header"
+            href="/friends"
+            onClick={[Function]}
+          >
+            コースケ
+          </a>
+          <div
+            className="meta"
+          >
+            Sun Dec 10 1815
+          </div>
+          <div
+            className="description"
+          >
+            <div
+              className="content"
+            >
+              <div>
+                <b>
+                  progate-python#3
+                </b>
+              </div>
+              <div>
+                今日もpythonを勉強した
+              </div>
+              <div
+                className="css-q2t9f5-ActivityCard"
+              >
+                <div
+                  className="ui blue mini label"
+                >
+                  python
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="extra content"
+        >
+          <div
+            className="left floated"
+          >
+            <i
+              className="reply icon"
+            />
+          </div>
+          <div
+            className="right floated like"
+          >
+            <i
+              className="thumbs up outline icon"
+            >
+               
+            </i>
+            20
+          </div>
+          <div
+            className="right floated star css-259vkn-ActivityCard"
+          >
+            <i
+              className="yen sign icon"
+            >
+               
+            </i>
+            10
+          </div>
+        </div>
+      </div>
+      <div
+        className="ui card"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="content"
+        >
+          <div
+            className="right floated ui label css-14ax3nl-ActivityCard"
+          >
+            <p
+              className="css-rtlns9-ActivityCard"
+            >
+              C
+            </p>
+          </div>
+          <div
+            className="right floated ui label css-81j3c4-ActivityCard"
+          >
+            <p
+              className="css-rtlns9-ActivityCard"
+            >
+              学習
+            </p>
+          </div>
+          <img
+            alt=""
+            className="left floated ui image"
+            src="http://ドラマシリコンバレー.com/content/images/siliconvalley/richard.jpg"
+            style={
+              Object {
+                "height": "2.5em",
+                "width": "2.5em",
+              }
+            }
+          />
+          <a
+            className="header"
+            href="/friends"
+            onClick={[Function]}
+          >
+            かず
+          </a>
+          <div
+            className="meta"
+          >
+            Sun Dec 10 1815
+          </div>
+          <div
+            className="description"
+          >
+            <div
+              className="content"
+            >
+              <div>
+                <b>
+                  qiita投稿：aws開発
+                </b>
+              </div>
+              <div>
+                
+              </div>
+              <div
+                className="css-q2t9f5-ActivityCard"
+              >
+                <div
+                  className="ui blue mini label"
+                >
+                  aws
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="extra content"
+        >
+          <div
+            className="left floated"
+          >
+            <i
+              className="reply icon"
+            />
+          </div>
+          <div
+            className="right floated like"
+          >
+            <i
+              className="thumbs up outline icon"
+            >
+               
+            </i>
+            20
+          </div>
+          <div
+            className="right floated star css-259vkn-ActivityCard"
+          >
+            <i
+              className="yen sign icon"
+            >
+               
+            </i>
+            10
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Top Top 1`] = `
+<div
+  className="ui container"
+>
+  <div
+    className="grid"
+  >
+    <div
+      className="two wide column"
+    />
+    <div
+      className="fourteen wide column css-1gly66-Top"
+    >
+      <div
+        className="header css-1ehnxdh-Top"
+      >
+        Welcome to Jeeek !
+      </div>
+      <i
+        className="massive comment alternate icon"
+      />
+      <div
+        className="css-1tirunb-Top"
+      >
+        <button
+          className="css-yka71w-Top"
+          onClick={[Function]}
+        >
+          signIn
+        </button>
+        <button
+          className="css-yka71w-Top"
+          onClick={[Function]}
+        >
+          signOut
+        </button>
+      </div>
+    </div>
+    <div
+      className="two wide column"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Users Users 1`] = `
+<div
+  className="ui grid"
+>
+  <div
+    className="four wide column"
+  >
+    <div
+      className="content"
+      style={
+        Object {
+          "marginTop": "15px",
+        }
+      }
+    >
+      <h3
+        className="ui header"
+      >
+        Following
+      </h3>
+    </div>
+    <hr />
+    <div
+      className="ui middle aligned divided list"
+    >
+      <div
+        className="ui item"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="right floated content"
+        >
+          <button
+            className="mini ui green button css-1t1qy61-UserRow"
+            style={
+              Object {
+                "fontSize": "8px",
+              }
+            }
+            type="button"
+          >
+            フォロー中
+          </button>
+        </div>
+        <img
+          alt=""
+          className="left floated ui image"
+          src="https://weblio.hs.llnwd.net/e7/img/dict/binbi/biuu002.png"
+          style={
+            Object {
+              "height": "2.5em",
+              "width": "2.5em",
+            }
+          }
+        />
+        <div
+          className="description"
+        >
+          <div
+            className="content"
+          >
+            <div>
+              <b>
+                ビルゲイツ
+              </b>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="ui item"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="right floated content"
+        >
+          <button
+            className="mini ui green button css-1t1qy61-UserRow"
+            style={
+              Object {
+                "fontSize": "8px",
+              }
+            }
+            type="button"
+          >
+            フォロー中
+          </button>
+        </div>
+        <img
+          alt=""
+          className="left floated ui image"
+          src="https://cdn-natgeo.nikkeibp.co.jp/atcl/gallery/020500145/06.jpg?__scale=w:1190,h:791&_sh=0af0100980"
+          style={
+            Object {
+              "height": "2.5em",
+              "width": "2.5em",
+            }
+          }
+        />
+        <div
+          className="description"
+        >
+          <div
+            className="content"
+          >
+            <div>
+              <b>
+                太郎
+              </b>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="four wide column"
+  >
+    <div
+      className="content"
+      style={
+        Object {
+          "marginTop": "15px",
+        }
+      }
+    >
+      <h3
+        className="ui header"
+      >
+        Followers
+      </h3>
+    </div>
+    <hr />
+    <div
+      className="ui middle aligned divided list"
+    >
+      <div
+        className="ui item"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="right floated content"
+        >
+          <button
+            className="mini ui green basic button css-1t1qy61-UserRow"
+            style={
+              Object {
+                "fontSize": "8px",
+              }
+            }
+            type="button"
+          >
+            フォローする
+          </button>
+        </div>
+        <img
+          alt=""
+          className="left floated ui image"
+          src="https://storage.tenki.jp/storage/static-images/suppl/article/image/9/97/971/9711/1/large.jpg"
+          style={
+            Object {
+              "height": "2.5em",
+              "width": "2.5em",
+            }
+          }
+        />
+        <div
+          className="description"
+        >
+          <div
+            className="content"
+          >
+            <div>
+              <b>
+                tono
+              </b>
+              <p
+                className="css-15hje2b-UserRow"
+              >
+                フォローされています
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="ui item"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="right floated content"
+        >
+          <button
+            className="mini ui green basic button css-1t1qy61-UserRow"
+            style={
+              Object {
+                "fontSize": "8px",
+              }
+            }
+            type="button"
+          >
+            フォローする
+          </button>
+        </div>
+        <img
+          alt=""
+          className="left floated ui image"
+          src="https://cdn-ak.f.st-hatena.com/images/fotolife/k/kiichangazie/20171203/20171203131011.png"
+          style={
+            Object {
+              "height": "2.5em",
+              "width": "2.5em",
+            }
+          }
+        />
+        <div
+          className="description"
+        >
+          <div
+            className="content"
+          >
+            <div>
+              <b>
+                坂本龍馬
+              </b>
+              <p
+                className="css-15hje2b-UserRow"
+              >
+                フォローされています
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="four wide column"
+  >
+    <div
+      className="content"
+      style={
+        Object {
+          "marginTop": "15px",
+        }
+      }
+    >
+      <h3
+        className="ui header"
+      >
+        Search
+      </h3>
+    </div>
+    <hr />
+    <div
+      className="ui search"
+    >
+      <div
+        className="ui icon input"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        <input
+          className="prompt"
+          placeholder="Common passwords..."
+          type="text"
+        />
+        <i
+          className="search icon"
+        />
+      </div>
+      <div
+        className="results"
+      />
+    </div>
+    <div
+      className="ui middle aligned divided list"
+    >
+      <div
+        className="ui item"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="right floated content"
+        >
+          <button
+            className="mini ui green button css-1t1qy61-UserRow"
+            style={
+              Object {
+                "fontSize": "8px",
+              }
+            }
+            type="button"
+          >
+            フォロー中
+          </button>
+        </div>
+        <img
+          alt=""
+          className="left floated ui image"
+          src="https://weblio.hs.llnwd.net/e7/img/dict/binbi/biuu002.png"
+          style={
+            Object {
+              "height": "2.5em",
+              "width": "2.5em",
+            }
+          }
+        />
+        <div
+          className="description"
+        >
+          <div
+            className="content"
+          >
+            <div>
+              <b>
+                ビルゲイツ
+              </b>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="ui item"
+        style={
+          Object {
+            "width": "98%",
+          }
+        }
+      >
+        <div
+          className="right floated content"
+        >
+          <button
+            className="mini ui green basic button css-1t1qy61-UserRow"
+            style={
+              Object {
+                "fontSize": "8px",
+              }
+            }
+            type="button"
+          >
+            フォローする
+          </button>
+        </div>
+        <img
+          alt=""
+          className="left floated ui image"
+          src="http://ドラマシリコンバレー.com/content/images/siliconvalley/richard.jpg"
+          style={
+            Object {
+              "height": "2.5em",
+              "width": "2.5em",
+            }
+          }
+        />
+        <div
+          className="description"
+        >
+          <div
+            className="content"
+          >
+            <div>
+              <b>
+                かず
+              </b>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Users/UserRow UserRow 1`] = `
+<div
+  className="ui item"
+  style={
+    Object {
+      "width": "98%",
+    }
+  }
+>
+  <div
+    className="right floated content"
+  >
+    <button
+      className="mini ui green button css-1t1qy61-UserRow"
+      style={
+        Object {
+          "fontSize": "8px",
+        }
+      }
+      type="button"
+    >
+      フォロー中
+    </button>
+  </div>
+  <img
+    alt=""
+    className="left floated ui image"
+    src="https://weblio.hs.llnwd.net/e7/img/dict/binbi/biuu002.png"
+    style={
+      Object {
+        "height": "2.5em",
+        "width": "2.5em",
+      }
+    }
+  />
+  <div
+    className="description"
+  >
+    <div
+      className="content"
+    >
+      <div>
+        <b>
+          ビルゲイツ
+        </b>
+        <p
+          className="css-15hje2b-UserRow"
+        >
+          フォローされています
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
